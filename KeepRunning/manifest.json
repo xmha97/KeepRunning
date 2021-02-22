@@ -4,7 +4,7 @@
   "version": "2.1",
   "description": "Causes Thunderbird's main window to minimize on closing and startup.",
   "author": "Muhammad Hussein Ammari",
-  "homepage_url": "https://github.com/xmha97/share-on-whatsapp/",
+  "homepage_url": "https://github.com/xmha97/KeepRunning/",
   "applications": {
     "gecko": {
       "id": "xmha97@gmail.com",
